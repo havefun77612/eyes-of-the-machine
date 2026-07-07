@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Colab / Jupyter checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Image samples (large files, add manually if needed)
+images/*.jpg
+images/*.png
+
+# Output files
+filtered_*.jpg
+smart_filter_result.jpg
+
+# IDE
+.vscode/
+.idea/

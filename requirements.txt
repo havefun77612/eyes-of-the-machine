@@ -1,0 +1,9 @@
+# Eyes of the Machine - Dependencies
+# Target: Google Colab (Python 3.12.x) - July 2026
+# All packages are latest stable versions
+
+opencv-python>=5.0.0
+Pillow>=12.3.0
+matplotlib>=3.11.0
+numpy>=2.0.2
+scikit-learn>=1.9.0
